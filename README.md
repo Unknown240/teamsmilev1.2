@@ -20,10 +20,21 @@
 ### Usage:
 ```
 git clone https://github.com/unknown240/teamsmile
-cd install
-  -bash install1.sh
-  -bash install2.sh  
-cd ..
+Termux-setup-storage
+ Git clone https.......
+
+Cd teamsmilev1.2
+Unzip teamsmilev1.2.zip
+Cd teamsmile
+
+Cd install
+Bash install1.sh
+Bash install2.sh
+
+Pkg install nano
+Nano README.md
+
+Run :
 bash teamsmile.sh
 
 #### THE REST TRY IT YOURSELF ####
@@ -94,12 +105,6 @@ echo "All Member Sgb Team Reborn"
 
 COPYRIGHT 2019 @Calvinfirlansyah
 TEAM SM:)E
-
-
-
-
-
-
 
 
 
